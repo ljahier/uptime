@@ -1,0 +1,12 @@
+[
+    {
+        "name": "google",
+        "hostname": "https://google.com",
+        "polling_interval": 60
+    },
+    {
+        "name": "cloudflare",
+        "hostname": "https://cloudflare.com",
+        "polling_interval": 60
+    }
+]
